@@ -1,20 +1,21 @@
-Madkudu Support.ipynb is were I play with the data
-TVscript is where I did the Script for the Nic Cage Movie. I'll also put the outvome at the end
-Visiting the app were I uploaded the data:
-  Go to the url: https://humble-sniffle-5r74w5796wx3x9x-8501.app.github.dev/
-  *First time using Streamlit and creating an app. Probably not an efficient way of processing the data on the server. Hope you enjoy!*
-Email: 
-Hi Sam, 
-
-We sorry for the inconvenience, this is a major issue for us, and we worked to solve it ASAP.
-This is what happened:
-Yesterday our AI scoring algorithm went down because the server where it runs, in Amazon Web Services, also went down. Sadly, this means we breached our threshold of 2,8 hours to deliver the score for the customer. 
-We have reset the server in AWS to fix the problem. All future leads should be scored correctly. 
-For the leads that come in since 7 am this morning, we get our backup to re-run them manually and give the missing scores to the latest leads between 7 am and now. This should be done in 1 hour on your platforms. 
-We will also review the amount of lead per unit of time that we are having and check if the server capacity is enough, so we will prevent any problems in the future.
- 
-Is there anything else I may do for you? 
-
+Support Work Sample (1) has the emails and the notes through the process
+Madkudu Support.ipynb is were I play with the data  
+TVscript is where I did the Script for the Nic Cage Movie. I'll also put the outvome at the end  
+Visiting the app were I uploaded the data:  
+  Go to the url: https://humble-sniffle-5r74w5796wx3x9x-8501.app.github.dev/  
+  *First time using Streamlit and creating an app. Probably not an efficient way of processing the data on the server. Hope you enjoy!*  
+Email:   
+Hi Sam,   
+  
+We sorry for the inconvenience, this is a major issue for us, and we worked to solve it ASAP.  
+This is what happened:  
+Yesterday our AI scoring algorithm went down because the server where it runs, in Amazon Web Services, also went down. Sadly, this means we breached our threshold of 2,8 hours to deliver the score for the customer.   
+We have reset the server in AWS to fix the problem. All future leads should be scored correctly.   
+For the leads that come in since 7 am this morning, we get our backup to re-run them manually and give the missing scores to the latest leads between 7 am and now. This should be done in 1 hour on your platforms.   
+We will also review the amount of lead per unit of time that we are having and check if the server capacity is enough, so we will prevent any problems in the future.  
+   
+Is there anything else I may do for you?   
+  
 Sincerely, 
 Joaquín G. 
 Madkudu- Support
