@@ -1,9 +1,10 @@
-Support Work Sample (1) has the emails and the notes through the process
+Support Work Sample (1) has the emails and the notes through the process  
 Madkudu Support.ipynb is were I play with the data  
 TVscript is where I did the Script for the Nic Cage Movie. I'll also put the outvome at the end  
 Visiting the app were I uploaded the data:  
   Go to the url: https://humble-sniffle-5r74w5796wx3x9x-8501.app.github.dev/  
   *First time using Streamlit and creating an app. Probably not an efficient way of processing the data on the server. Hope you enjoy!*  
+Internal communication vídeo: https://www.loom.com/share/24d8089a215044e889c499df2a53a8ec?sid=e00b5906-7572-4d0f-9c68-1738c1299e25
 Email:   
 Hi Sam,   
   
